@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1683080377 source:c:\users\joako\desktop\programacion 2\tp musico\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+	"obj musicos.h"
+	"funciones globales.h"
+
+1683080377 c:\users\joako\desktop\programacion 2\tp musico\fecha.h
+
+1683122213 c:\users\joako\desktop\programacion 2\tp musico\obj musicos.h
+
+1683082547 c:\users\joako\desktop\programacion 2\tp musico\funciones globales.h
+
+1683075348 c:\users\joako\desktop\programacion 2\tp musico\guardardni.h
+
+1689176128 source:c:\users\user\downloads\tp musico\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+	"obj musicos.h"
+	"generos.h"
+	"instrumentos.h"
+	"Paises.h"
+	"funciones globales.h"
+	"menus.h"
+	"reportes.h"
+
+1683472780 c:\users\user\downloads\tp musico\fecha.h
+
+1689176128 c:\users\user\downloads\tp musico\obj musicos.h
+	"instrumentos.h"
+	"generos.h"
+
+1689198777 c:\users\user\downloads\tp musico\funciones globales.h
+
+1689284281 c:\users\user\downloads\tp musico\menus.h
+	"reportes.h"
+
+1688938266 c:\users\user\downloads\tp musico\generos.h
+	"paises.h"
+
+1689284210 c:\users\user\downloads\tp musico\reportes.h
+	<iostream>
+	"obj musicos.h"
+	"generos.h"
+	"instrumentos.h"
+	"paises.h"
+	"fecha.h"
+
+1688938265 c:\users\user\downloads\tp musico\instrumentos.h
+
+1687384420 c:\users\user\downloads\tp musico\paises.h
+
